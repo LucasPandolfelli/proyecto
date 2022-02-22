@@ -1,0 +1,38 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  transition: 0.5s;
+}
+
+button {
+  border: none !important;
+  border-radius: 8px;
+}
+
+button:hover {
+  transition: 0.5s;
+  background-color: #290f5c !important;
+}
+
+.a-btn {
+  background-color: #000000 !important;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+}
+
+.a-btn:hover {
+  background-color: #290f5c !important;
+  color: #ffffff;
+}
+
+.dropdown button {
+  background-color: transparent !important;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
